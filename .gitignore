@@ -1,0 +1,14 @@
+
+
+# # Ignorar archivos temporales y de configuración del editor
+# .DS_Store
+# *.log
+# .vscode/
+
+# # Ignorar dependencias de Node.js (si usas npm)
+# node_modules/
+
+# # Ignorar archivos de paquetes
+# package-lock.json
+
+# # Aquí puedes añadir cualquier otro archivo que no quieras subir.
